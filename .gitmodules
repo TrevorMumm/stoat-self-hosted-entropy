@@ -1,0 +1,3 @@
+[submodule "for-web"]
+	path = for-web
+	url = https://github.com/TrevorMumm/stoatchat-for-web-entropy.git
