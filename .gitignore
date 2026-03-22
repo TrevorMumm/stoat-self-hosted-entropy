@@ -1,0 +1,16 @@
+data*
+.env
+.env.web
+Revolt.toml
+compose.override.yml
+data*
+.env
+.env.web
+.vscode-server/
+.cache/
+.local/
+node_modules/
+*.zip
+*.exe
+.pnpm
+stoat_source_backup/
